@@ -1,0 +1,8 @@
+{
+  "name": "vue-light-bootstrap-dashboard",
+  "short_name": "vue-light-bootstrap-dashboard",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}
